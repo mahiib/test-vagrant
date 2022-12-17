@@ -8,4 +8,4 @@ NMIT, Bangalore
 
 To run the program
 
-`python3 gradCodingChallenge.py.py`
+`python3 gradCodingChallenge.py`
