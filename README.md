@@ -6,4 +6,4 @@ Mahesh B
 NMIT, bangalore
 
 
-to run the program `python3 gradChallengeprog.py`
+to run the program `python3 gradCodingChallenge.py.py`
