@@ -3,7 +3,9 @@ Mahesh B
 
 1NT19CS105
 
-NMIT, bangalore
+NMIT, Bangalore
 
 
-to run the program `python3 gradCodingChallenge.py.py`
+To run the program
+
+`python3 gradCodingChallenge.py.py`
